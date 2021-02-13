@@ -1,3 +1,3 @@
 # GCP-Quarkusサンプル
 
-Google Cloudのクライアントライブラリを使用するQuarkusアプリケーションのサンプルプロジェクト郡。
+Google Cloudのクライアントライブラリを使用するQuarkusアプリケーションのサンプルプロジェクト群。
